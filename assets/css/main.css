@@ -1,12 +1,5 @@
 /*--------------------------------------------------------------------------------
 
-	# Minimis Template 1.0 - Mar 1, 2018
-	# ------------------------------------------------------------------------
-	# Designed & coded by Awe7
-	# Websites:  http://www.awe7.com -  Email: info@awe7.com
-
-----------------------------------------------------------------------------------
-
 	1. base
 	2. button
 	3. form-item
@@ -2330,7 +2323,7 @@ ul {
 --------------------------------------------------------------------------------*/
 
 .header {
-  padding: 10px 20px;
+  padding: 5px 20px;
   transition: all 0.3s cubic-bezier(0.91, 0.04, 0.13, 0.99);
   position: relative;
 }
@@ -2353,7 +2346,7 @@ ul {
   position: relative;
   display: -ms-flexbox;
   display: flex;
-  padding: 10px 0;
+  padding: 5px 0;
   -ms-flex-pack: justify;
   justify-content: space-between;
   -ms-flex-align: center;
